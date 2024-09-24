@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Firebase ###
+/src/main/resources/xsmartroute-adminskd.json
+
+### Node modules ###
+node_modules/
+
